@@ -25,9 +25,9 @@ git clone https://github.com/shivamraj-2003/Todo-app
 
 ### 2. Navigate into the project directory and install the required dependencies using below commands:
 
-cd Todo-app
-cd Shivam-Todo
-npm install
+1.cd Todo-app
+2.cd Shivam-Todo
+3.npm install
 ### 3.Run the application using below command
 npm run dev
 ### 4. Open the application
